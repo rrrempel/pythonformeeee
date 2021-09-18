@@ -1,3 +1,3 @@
-president = input('Кто руководил Россией, когда вы родились? ')
-president1 = input ('Кто руководит Россией сейчас? ')
+president = input('Кто управлял Россией, когда вы родились? ')
+president1 = input ('Кто управляет Россией сейчас? ')
 print(president == president1)
